@@ -1,9 +1,0 @@
-scripts
-
-add scripts 
-\\emuelec\Storage\.config\emuelec\scripts
-Add the script to the script folder and replace the files, it can be via samba or ssh, the backps are included within the folder, you can easily test.
-Tested on EmuELEC 2.5.0
-
-Adicionar o script para a pasta de script e substituir os arquivos, pode ser via samba ou ssh, os backps estão incluídos dentro da pasta, você pode testar facilmente.
-Testado em EmuELEC 2.5.0
