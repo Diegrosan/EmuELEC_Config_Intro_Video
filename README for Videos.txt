@@ -1,5 +1,8 @@
-Anima��o criada em gif, foi eu mesmo que fiz.
-Videos extraida da internet e algumas editada r�pida por me.
+Animação criada em gif, foi eu mesmo que fiz.
+Videos extraida da internet e algumas editada rápida por me.
+
+Animación creada en gif, lo hice yo mismo.
+Videos extraídos de Internet y algunos editados rápidamente por mí.
 
 Animation created in gif, I did it myself.
 Videos taken from the internet and some quick edited  by me.
